@@ -54,4 +54,25 @@ Look-alike Audience Extension System</a></li>
    
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Advertising-papers/blob/master/bid(28).pdf" style="text-decoration:none;">From 0.5 Million to 2.5 Million: Efficiently Scaling up Real-Time Bidding</a></li>
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Bidding-papers/blob/master/bid(29).pdf" style="text-decoration:none;">Experimenting Text Summarization Techniques for Contextual Advertising </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Bidding-papers/blob/master/bid(30).pdf" style="text-decoration:none;">Contextual advertising in online communication: An investigation of relationships between multiple content types on a webpage</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Bidding-papers/blob/master/bid(31).pdf" style="text-decoration:none;">A semantic approach to contextual advertising</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Bidding-papers/blob/master/bid(32).pdf" style="text-decoration:none;">Real Time Video Content Based Contextual Advertisement</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Bidding-papers/blob/master/bid(33).pdf" style="text-decoration:none;">Targeting and Privacy in Mobile Advertising</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Bidding-papers/blob/master/bid(34).pdf" style="text-decoration:none;">SmartAds: Bringing Contextual Ads to Mobile Apps</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Bidding-papers/blob/master/bid(35).pdf" style="text-decoration:none;">A Semantic Approach to Contextual Advertising</a></li> 
+ 
+   
+   
+   
+   
+   
+   
+   
  </ul>
