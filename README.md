@@ -59,7 +59,7 @@ Look-alike Audience Extension System</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Bidding-papers/blob/master/bid(30).pdf" style="text-decoration:none;">Contextual advertising in online communication: An investigation of relationships between multiple content types on a webpage</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Bidding-papers/blob/master/bid(31).pdf" style="text-decoration:none;">A semantic approach to contextual advertising</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Bidding-papers/blob/master/bid(31).pdf" style="text-decoration:none;">Visual Contextual Advertising: Bringing Textual Advertisements to Images</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Bidding-papers/blob/master/bid(32).pdf" style="text-decoration:none;">Real Time Video Content Based Contextual Advertisement</a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Bidding-papers/blob/master/bid(33).pdf" style="text-decoration:none;">Targeting and Privacy in Mobile Advertising</a></li>                              
